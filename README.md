@@ -7,3 +7,7 @@
 ### Extra step for iOS
 
 run `npx pod-install`
+
+### Run project
+
+`npm run android / npm run ios`
